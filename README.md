@@ -1,0 +1,1 @@
+A simple dice throwing game for 2-5 players and customizeable winning score. The players turn ends once they roll a "1", in which case their score is reset to zero, or if they chose not to continue rolling. 
